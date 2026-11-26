@@ -60,3 +60,7 @@ JSON Schema · API autenticada · Allure · testes de integração com dados iso
 
 ## Referências
 [Playwright API Testing](https://playwright.dev/python/docs/api-testing) · [JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/)
+
+## Revisão e autoria
+
+**Demétrios Alves da Silva** · QA Analyst · [Portfólio](https://github.com/Demetrios10/Demetrios10/blob/main/PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/demetriosalvess)
